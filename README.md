@@ -30,5 +30,5 @@ Contributions, suggestions, and feedback are welcome! If you find any issues, ha
 
 ## Acknowledgments
 
-I would like to acknowledge the "Analytics with Nags" channel on YouTube for the tutorial followed for this project.
+I would like to acknowledge "Analytics with Nags" channel on YouTube for producing the tutorial for this project.
 
